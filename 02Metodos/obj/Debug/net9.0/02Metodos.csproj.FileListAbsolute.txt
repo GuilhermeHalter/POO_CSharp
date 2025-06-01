@@ -1,0 +1,15 @@
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfo.cs
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.sourcelink.json
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\bin\Debug\net9.0\02Metodos.exe
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\bin\Debug\net9.0\02Metodos.deps.json
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\bin\Debug\net9.0\02Metodos.runtimeconfig.json
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\bin\Debug\net9.0\02Metodos.dll
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\bin\Debug\net9.0\02Metodos.pdb
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.dll
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\refint\02Metodos.dll
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.pdb
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\02Metodos.genruntimeconfig.cache
+C:\Users\anaha\OneDrive\Documentos\POO_CSharp\02Metodos\obj\Debug\net9.0\ref\02Metodos.dll
